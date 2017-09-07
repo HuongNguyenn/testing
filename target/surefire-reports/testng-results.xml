@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17698" started-at="2017-09-01T03:38:55Z" finished-at="2017-09-01T03:39:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17662" started-at="2017-09-01T03:38:55Z" finished-at="2017-09-01T03:39:13Z">
+      <class name="Scenarios.tc01">
+        <test-method status="PASS" signature="test()[pri:0, instance:Scenarios.tc01@49e4cb85]" name="test" duration-ms="17643" started-at="2017-09-01T10:38:55Z" finished-at="2017-09-01T10:39:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Scenarios.tc01 -->
+    </test> <!-- Test -->
+    <test name="Main Test Group" duration-ms="0" started-at="2017-09-01T03:39:13Z" finished-at="2017-09-01T03:39:13Z">
+    </test> <!-- Main Test Group -->
+  </suite> <!-- Suite -->
+</testng-results>
