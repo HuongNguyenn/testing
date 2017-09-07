@@ -26,7 +26,7 @@ public class tc01 {
         driver.findElement(By.xpath(".//input[@id='dientichdat']")).sendKeys("enter");
         System.out.println(" Login Successfully.");
  
-       driver.quit();
+//        driver.quit();
             }
        
 }
